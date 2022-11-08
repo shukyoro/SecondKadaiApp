@@ -18,6 +18,7 @@ class HelloViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
+        // ラベルに名前を表示
         label.text = "こんにちは、\(name)さん"
     }
     
